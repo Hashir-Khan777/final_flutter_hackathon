@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217376248703",
+    "project_id": "flutterudemyapphackathon",
+    "storage_bucket": "flutterudemyapphackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217376248703:android:332ccd610ecb08d35e004a",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217376248703-g056dkbsmcq6u77dtojcm4iri6ndvp53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjm_z7gyA1GvfDFXu0ZJvR-p-QMkjKT9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217376248703-g056dkbsmcq6u77dtojcm4iri6ndvp53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
